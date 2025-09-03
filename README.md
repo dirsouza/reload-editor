@@ -21,7 +21,6 @@ A simple extension that adds a reload button to the status bar of the Editor, al
 
 - Cursor Editor
 - VS Code Engine ^1.74.0
-```
 
 ## 📝 Changelog
 
