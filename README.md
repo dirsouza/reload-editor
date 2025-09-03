@@ -1,4 +1,4 @@
-# Reload Plugin
+# Reload Editor
 
 A simple extension that adds a reload button to the status bar of the Editor, allowing you to quickly reload the window when needed.
 
