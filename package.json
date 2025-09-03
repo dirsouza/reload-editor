@@ -3,7 +3,7 @@
   "displayName": "Reload Editor",
   "description": "Add reload button to status bar for quick window reload",
   "version": "0.0.1",
-  "publisher": "Reload Editor",
+  "publisher": "dirsouza",
   "icon": "./images/reload-icon.png",
   "engines": {
     "vscode": "^1.74.0"
